@@ -6,12 +6,12 @@
 <h3> :woman: &nbsp;About Me </h3>
 
 - 😄 Pronouns: She/Her/Hers 
-- 🔭 I’m currently working on my an NLP sentiment analysis project :grin:
-- :heart: Favorite Language: SQL
-- 🌱 I’m currently learning nueral nets and Mandarin
-- 👯 I’m always looking to collaborate with scientist from any field
-- 💬 Ask me about anything, I am happy to help
-- 🌍 I support: Latinas in Tech, Conscious Capitalism, AllStar Code, The Foundation to Decrease Worldsuck
+- 🔭 I’m currently working on: an NLP sentiment analysis project
+- :heart: My favorite language: SQL
+- 🌱 I’m currently learning: nueral nets and Mandarin
+- 👯 I’m always looking to collaborate with: scientist from any field
+- 💬 Ask me about: anything, I am happy to help
+- 🌍 I support: Latinas in Tech, AllStar Code, The Foundation to Decrease Worldsuck
 - 💜 Interests: philosophy, travel, dachshunds, internet culture, video games, Star Trek
 - ⚡ Fun fact: My ultimate dream is to be on Star Trek and dawn a yellow uniform. 🖖
 
@@ -74,11 +74,15 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 <p>
 
 <a align= "center" href="https://github.com/dataonatangent">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=dataonatangent&theme=cobalt&show_icons=true" />
+  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=dataonatangent&theme=cobalt&show_icons=true&count_private=true" />
   <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
 </p>
 <br/>
+
+
+
+
 
 
 
@@ -98,20 +102,5 @@ Here are some ideas to get you started:
 
 #Stats card for later use
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dataonatangent&theme=cobalt&layout=compact" />
-<p>
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent"/>
-</p>
 
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
