@@ -18,18 +18,10 @@
 <br/>
 
 <a href="https://github.com/dataonatangent">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dataonatangent&theme=cobalt&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dataonatangent&theme=cobalt&layout=compact" />
+  <img align="center" alt= "stats card" height="180em" src="https://github-readme-stats.vercel.app/api?username=dataonatangent&theme=cobalt&show_icons=true" />
 </a>
 
 <br/>
-
-
-
-
-
-
-
 
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent" />
@@ -41,6 +33,9 @@
 **DataOnATangent/dataonatangent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+#Stats card for later use
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dataonatangent&theme=cobalt&layout=compact" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
