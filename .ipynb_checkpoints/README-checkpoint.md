@@ -1,7 +1,9 @@
 ![Welcome Banner](banner.gif)
 
 
-<h3> :space_invader:💻 &nbsp;About Me </h3>
+<img align="left" height="270px" alt="hello_world" src="pic.png" />
+
+<h3> :woman: &nbsp;About Me </h3>
 
 - 😄 Pronouns: She/Her/Hers 
 - 🔭 I’m currently working on my an NLP sentiment analysis project :grin:
@@ -13,11 +15,11 @@
 - 💜 Interests: philosophy, travel, dachshunds, internet culture, video games, Star Trek
 - ⚡ Fun fact: I have a life long dream of being on Star Trek and dawning a yellow uniform. 🖖
 
-<img align="left" height="270px" alt="GIF" src="pic.png" />
+<br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
+- :space_invader:
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
   ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
@@ -36,6 +38,8 @@
 
 <br/>
 
+<p>
+
 ## 📝 Recent Projects
 ### [ Using Dating Profiles to Predict Occupation: ](https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project)<br>
 Machine learning prediction model using logistic regression to predict a users observations using the various features used on their OKCupid dating profile. Data collected from OKCupid.com in the San Francisco Area.<br>
@@ -49,6 +53,8 @@ Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 ### [ Yelp ETL Project Analysis: ](https://github.com/DataOnATangent/Yelp_API_ETL_Project)<br>
 EDA of Yelp API data for Flatiron School Data Science Immersive Program.<br>
 Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
+
+</p>
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
