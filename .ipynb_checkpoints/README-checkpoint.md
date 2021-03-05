@@ -15,14 +15,16 @@
 
 
 
-<br/>
+<br/> 
+
 
 <a href="https://github.com/dataonatangent">
-  <img align="left" alt= "stats card" height="270px" src="https://github-readme-stats.vercel.app/api?username=dataonatangent&theme=cobalt&show_icons=true" />
-</a>
-<a>  <img align="right" height="270px" alt="guy" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+  <img align="left" alt= "stats card" height="270px" width="300" src="https://github-readme-stats.vercel.app/api?username=dataonatangent&theme=cobalt&show_icons=true" />
+  <img align="right" height="270px" alt="guy" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
 <br/>
+
+
 
 <p>
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent" />
