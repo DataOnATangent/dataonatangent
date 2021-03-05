@@ -1,6 +1,34 @@
 ![Welcome Banner](banner.gif)
 
 
+<h3> :space_invader:💻 &nbsp;About Me </h3>
+
+- 😄 Pronouns: She/Her/Hers 
+- 🔭 I’m currently working on my an NLP sentiment analysis project :grin:
+- :heart: Favorite Language: SQL
+- 🌱 I’m currently learning nueral nets and Mandarin
+- 👯 I’m always looking to collaborate with scientist from any field
+- 💬 Ask me about anything, I am happy to help
+- 🌍 I support and volunteer with: Latinas in Tech, Conscious Capitalism, AllStar Code, The Foundation to Decrease Worldsuck
+- 💜 Interests: philosophy, travel, dachshunds, internet culture, video games
+- ⚡ Fun fact: I am a Star Trek junkie and have a live long goal of being an extra on the show someday as dawn a yellow someday. 🖖
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+  ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+<br/>
 
 ## 📝 Recent Projects
 ### [ Using Dating Profiles to Predict Occupation: ](https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project)<br>
