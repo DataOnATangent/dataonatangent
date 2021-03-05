@@ -18,9 +18,9 @@
 <br/> 
 <p>
 
-<a href="https://github.com/dataonatangent">
-  <img align="left" alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=dataonatangent&theme=cobalt&show_icons=true" />
-  <img align="right" height="170px" alt="guy" width="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+<a align= "center" href="https://github.com/dataonatangent">
+  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=dataonatangent&theme=cobalt&show_icons=true" />
+  <img height="270px" alt="guy" width="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
 </p>
 <br/>
