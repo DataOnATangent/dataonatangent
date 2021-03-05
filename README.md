@@ -24,10 +24,11 @@
 <br/>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent" />
+    <img align="left" height="270px" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent" />
+    <img align="right" height="270px" alt="guy" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </p>
 
-![Quote Banner](ending.gif)
+
 
 <!--
 **DataOnATangent/dataonatangent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
