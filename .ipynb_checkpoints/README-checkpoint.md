@@ -31,9 +31,9 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-- 💻 OS 
+- 💻 &nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 
 <br/>
@@ -80,6 +80,16 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 </p>
 <br/>
 
+
+
+
+
+
+
+
+<p>
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent"/>
+</p>
 
 <!--
 **DataOnATangent/dataonatangent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
