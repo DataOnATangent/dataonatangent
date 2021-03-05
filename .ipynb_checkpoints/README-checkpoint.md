@@ -13,7 +13,7 @@
 - 💬 Ask me about anything, I am happy to help
 - 🌍 I support: Latinas in Tech, Conscious Capitalism, AllStar Code, The Foundation to Decrease Worldsuck
 - 💜 Interests: philosophy, travel, dachshunds, internet culture, video games, Star Trek
-- ⚡ Fun fact: I have a life long dream of being on Star Trek and dawning a yellow uniform. 🖖
+- ⚡ Fun fact: My ultimate dream is to be on Star Trek and dawn a yellow uniform. 🖖
 
 <br/>
 
