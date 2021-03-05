@@ -1,7 +1,14 @@
 ### Hi there 👋
-[![Welcome Banner](banner.gif)] 
+![Welcome Banner](banner.gif)
 
 
+
+
+
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent" />
+</p>
+![Quote Banner](ending.gif)
 
 <!--
 **DataOnATangent/dataonatangent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
