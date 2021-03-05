@@ -9,9 +9,11 @@
 - 🌱 I’m currently learning nueral nets and Mandarin
 - 👯 I’m always looking to collaborate with scientist from any field
 - 💬 Ask me about anything, I am happy to help
-- 🌍 I support and volunteer with: Latinas in Tech, Conscious Capitalism, AllStar Code, The Foundation to Decrease Worldsuck
-- 💜 Interests: philosophy, travel, dachshunds, internet culture, video games
-- ⚡ Fun fact: I am a Star Trek junkie and have a live long goal of being an extra on the show someday as dawn a yellow someday. 🖖
+- 🌍 I support: Latinas in Tech, Conscious Capitalism, AllStar Code, The Foundation to Decrease Worldsuck
+- 💜 Interests: philosophy, travel, dachshunds, internet culture, video games, Star Trek
+- ⚡ Fun fact: I have a life long dream of being on Star Trek and dawning a yellow uniform. 🖖
+
+<img align="left" height="270px" alt="GIF" src="pic.png" />
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -27,6 +29,10 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+- 💻 OS 
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
 
 <br/>
 
