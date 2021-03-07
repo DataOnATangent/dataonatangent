@@ -3,7 +3,7 @@
 
 <img align="left" height="270px" alt="hello_world" src="pic.png" />
 
-<h3> :woman: &nbsp;About Me </h3>
+<h3> About Me </h3>
 
 - 😄 Pronouns: She/Her/Hers 
 - 🔭 I’m currently working on: an NLP sentiment analysis project
