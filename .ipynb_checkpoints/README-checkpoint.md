@@ -6,9 +6,9 @@
 <h3> About Me </h3>
 
 - 😄 Pronouns: She/Her/Hers 
-- 🔭 I’m currently working on: an NLP sentiment analysis project
+- 🔭 I’m currently working on: Tableau Certifcation
 - :heart: My favorite language: SQL
-- 🌱 I’m currently learning: nueral nets and Mandarin
+- 🌱 I’m currently learning: neural nets and Mandarin
 - 👯 I’m always looking to collaborate with: scientist from any field
 - 💬 Ask me about: anything, I am happy to help
 - 🌍 I support: Latinas in Tech, AllStar Code, The Foundation to Decrease Worldsuck
@@ -41,6 +41,10 @@
 <p>
 
 ### 📝 Recent Projects
+
+#### [ NLP Project: Using Reviews to Predict Company Ratings ](https://github.com/DataOnATangent/Glassdoor_NLP)<br>
+NLP Project used to preduct review ratings from the text of Glassdoor reviews with various models tested including KNN, random forest, XGBoost, and Lightgbm among others. Data webscrapped from Glassdoor using Selenium.<br>
+Libraries Utilized: Numpy, Pandas, Matplotlib, Seaborn, Statsmodels, Sklearn, NLTK, XGBoost, Selenium
 
 #### [ A Time Series of CO2 Level Predictions: ](https://github.com/Astroraf/CO2_predictions)<br>
 A study of CO2 emission averages using machine learning prediction models ARMA, ARIMA, and SARIMA to predict CO2 levels in the coming years. Data was sourced from NOAA and based on weekly average measurements. I hope to use this to highlight the need for further conservation efforts.<br>
