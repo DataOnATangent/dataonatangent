@@ -43,7 +43,7 @@
 ### 📝 Recent Projects
 
 #### [ NLP Project: Using Reviews to Predict Company Ratings ](https://github.com/DataOnATangent/Glassdoor_NLP)<br>
-NLP Project used to preduct review ratings from the text of Glassdoor reviews with various models tested including KNN, random forest, XGBoost, and Lightgbm among others. Data webscrapped from Glassdoor using Selenium.<br>
+NLP Project to predict review/company ratings from the text of Glassdoor reviews with various models tested including KNN, random forest, XGBoost, and Lightgbm among others. Data webscrapped from Glassdoor using Selenium.<br>
 Libraries Utilized: Numpy, Pandas, Matplotlib, Seaborn, Statsmodels, Sklearn, NLTK, XGBoost, Selenium
 
 #### [ A Time Series of CO2 Level Predictions: ](https://github.com/Astroraf/CO2_predictions)<br>
